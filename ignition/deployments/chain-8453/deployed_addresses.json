@@ -1,0 +1,17 @@
+{
+  "TokenModule#DegenToken": "0x4ed4E862860beD51a9570b96d89aF5E1B0Efefed",
+  "DegenModule#DegenAirdrop1": "0x9F07F8A82cB1af1466252e505b7b7ddee103bC91",
+  "OtcVestingModule#OtcVesting": "0x7d00D30269fC62Ab5fAb54418feeDBdc71FDb25f",
+  "OtcEscrowModule#OtcEscrow": "0x4340A66FE6A39326B1A135F2D95167F357f0Fa21",
+  "LiquidityMiningAirdrop1#DegenAirdrop1": "0x7134ddcd6Bc3d3f29643Ec8882cd4d7d0b38379D",
+  "Airdrop2Season1#DegenAirdrop1": "0x88d42b6DBc10D2494A0c6c189CeFC7573a6dCE62",
+  "Airdrop2Season2#DegenAirdrop1": "0xA2A5c549a454a1631Ff226E0Cf8Dc4aF03a61a75",
+  "LiquidityMiningAirdrop2#DegenAirdrop1": "0x6843aB76dBFa347ca338b162FaF6775D2D938ebf",
+  "Airdrop2Season3#DegenAirdrop1": "0x0Bf676823f958d0aE6af9860880FC7A327a0c582",
+  "Airdrop2Season4#DegenAirdrop1": "0xF4c9fc64eD902B08C3397C48dCa0342bdFD49a32",
+  "DegenLockToken#DegenLockToken": "0xa8a30E0dafCA4156f28d96cCa5671a0eEcA5E407",
+  "Airdrop2Season5#DegenAirdrop1": "0x81aC315D7BAF7fae2e8278Dc33Ec91B752560166",
+  "Airdrop2Season6#DegenAirdrop1": "0xdfeddda2bC2e75524f470991f46404eE90ae2eEa",
+  "RaindropSeason1#DegenAirdrop1": "0x3a27c6bbEF15C8947285f686d53B9EC95265f197",
+  "Airdrop2Season9#DegenAirdrop1": "0xef9816e228Bb88a81178CD37C3fAB926BfC67517"
+}
